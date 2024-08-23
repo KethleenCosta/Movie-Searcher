@@ -1,3 +1,5 @@
+// Este projeto foi desenvolvido com base no tutorial "React JS Full Course 2023" de JavaScript Mastery no YouTube. 
+
 import React, { useEffect, useState } from "react";
 
 import MovieCard from "./MovieCard";
